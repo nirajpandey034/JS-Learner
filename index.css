@@ -19,3 +19,6 @@
   padding: 0.5rem;
   background-color: aquamarine;
 }
+.link-card-url {
+  text-transform: capitalize;
+}
