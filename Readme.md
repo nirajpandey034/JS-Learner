@@ -14,6 +14,10 @@ Projects: Work on collaborative projects with your peers to apply your JavaScrip
 
 Code Challenges: Challenge yourself and others with JavaScript coding exercises, and discuss solutions to learn new techniques.
 
+## Live:
+
+https://vanillajs-codestore.vercel.app/
+
 ## Finally:
 
 Let's embark on this journey of peer-to-peer learning and JavaScript mastery together! Join our community and start enhancing your JavaScript skills today.
