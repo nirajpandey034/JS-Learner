@@ -1,0 +1,13 @@
+.parent-container {
+  border: 1px solid black;
+  height: 15rem;
+  width: 100%;
+  background-color: antiquewhite;
+}
+
+.child-paragraph {
+  color: red;
+  text-transform: capitalize;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
