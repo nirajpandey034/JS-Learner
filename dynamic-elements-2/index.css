@@ -1,0 +1,17 @@
+.parent-container {
+  border: 1px solid black;
+  height: 100%;
+  width: 100%;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+}
+
+.name-paragraph {
+  color: red;
+  text-transform: capitalize;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
