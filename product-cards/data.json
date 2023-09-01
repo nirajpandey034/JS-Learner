@@ -1,0 +1,56 @@
+[{
+    "id": 1,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Product 1",
+    "description": "Nice Product",
+    "price": 29.99
+},
+{
+    "id": 2,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Product 2",
+    "description": "Nice Product",
+    "price": 39.99
+},
+{
+    "id": 3,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Product 3",
+    "description": "Nice Product",
+    "price": 49.99
+},
+{
+    "id": 4,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Product 4",
+    "description": "Nice Product",
+    "price": 59.99
+},
+{
+    "id": 5,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Product 5",
+    "description": "Nice Product",
+    "price": 69.99
+},
+{
+    "id": 6,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Product 6",
+    "description": "Nice Product",
+    "price": 79.99
+},
+{
+    "id": 7,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Product 7",
+    "description": "Very Nice Product",
+    "price": 19.99
+},
+{
+    "id": 8,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Product 8",
+    "description": "Must buy product",
+    "price": 9.99
+}]
