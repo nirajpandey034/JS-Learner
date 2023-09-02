@@ -2,6 +2,7 @@
     "paths": [
         "/JS-Learner/dynamic-elements",
         "/JS-Learner/dynamic-elements-2",
-        "/JS-Learner/product-cards"
+        "/JS-Learner/product-cards",
+        "/JS-Learner/search-debouncing"
     ]
 }
