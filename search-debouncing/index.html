@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Debounced Search</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div
+      style="
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 1rem;
+      "
+    >
+      <label for="searchBox">Begin your search here</label>
+      <input
+        name="searchBox"
+        placeholder="Search Here"
+        id="search_box"
+        class="search-box"
+      />
+
+      <div class="parent-container" id="parent_container"></div>
+    </div>
+    <script type="module" src="index.js" async></script>
+  </body>
+</html>

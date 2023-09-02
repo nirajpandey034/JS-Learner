@@ -1,0 +1,56 @@
+[{
+    "id": 1,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Macbook Air M1 - 2022 - Refurbished",
+    "description": "Macbook Air M1 - 2022",
+    "price": 29.99
+},
+{
+    "id": 2,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Dell Latitude - 2022",
+    "description": "Dell Laptop - 512GB - 16GB RAM",
+    "price": 39.99
+},
+{
+    "id": 3,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Lenovo Notebook - 2022",
+    "description": "Very High Performance",
+    "price": 49.99
+},
+{
+    "id": 4,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Asus Pad - 2022",
+    "description": "A handy device",
+    "price": 59.99
+},
+{
+    "id": 5,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Asus Pad - 2023",
+    "description": "A handy device",
+    "price": 69.99
+},
+{
+    "id": 6,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Dell Latitude - 2023",
+    "description": "Dell Laptop - 512GB - 16GB RAM",
+    "price": 79.99
+},
+{
+    "id": 7,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Macbook Air M1 - 2023",
+    "description": "Macbook Air M1 - 2022",
+    "price": 19.99
+},
+{
+    "id": 8,
+    "image": "https://images.pexels.com/photos/15913452/pexels-photo-15913452/free-photo-of-poke-bowl-with-salmon.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "title": "Lenovo Notebook - 2023",
+    "description": "Very High Performance",
+    "price": 9.99
+}]
