@@ -29,7 +29,7 @@ data.paths.map((item) => {
       class: "link-card-url",
       href: `${item}`,
     },
-    content: `<span>${item.slice(1)}</span>`,
+    content: `<span>${item.split("/")[2]}</span>`,
   });
   card.appendChild(url);
 
