@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Handling Forms</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div id="form_container" class="form-container">
+      <input placeholder="Full Name" type="text" id="_name" />
+      <p id="name_error" class="error"></p>
+
+      <input placeholder="City" type="text" id="_city" />
+      <p id="city_error" class="error"></p>
+
+      <input placeholder="Email" type="email" id="_email" />
+      <p id="email_error" class="error"></p>
+
+      <input placeholder="Password" type="password" id="_password" />
+      <div class="password-criteria-container">
+        <ul>
+          <li id="pass_criteria_1" class="criteria">
+            Must have more than 5 characters
+          </li>
+          <li id="pass_criteria_2" class="criteria">
+            Must Containe special characters
+          </li>
+          <li id="pass_criteria_3" class="criteria">
+            Must NOT Contain first word of name
+          </li>
+        </ul>
+      </div>
+
+      <button type="submit" id="_submitBtn">Submit</button>
+    </div>
+    <script type="module" src="index.js" async></script>
+  </body>
+</html>
